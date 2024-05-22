@@ -1,0 +1,17 @@
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\PaymentsConsumer\bin\Debug\net7.0\PaymentsConsumer.exe
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\PaymentsConsumer\bin\Debug\net7.0\PaymentsConsumer.deps.json
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\PaymentsConsumer\bin\Debug\net7.0\PaymentsConsumer.runtimeconfig.json
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\PaymentsConsumer\bin\Debug\net7.0\PaymentsConsumer.dll
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\PaymentsConsumer\bin\Debug\net7.0\PaymentsConsumer.pdb
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\PaymentsConsumer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\PaymentsConsumer\obj\Debug\net7.0\PaymentsConsumer.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\PaymentsConsumer\obj\Debug\net7.0\PaymentsConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\PaymentsConsumer\obj\Debug\net7.0\PaymentsConsumer.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\PaymentsConsumer\obj\Debug\net7.0\PaymentsConsumer.AssemblyInfo.cs
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\PaymentsConsumer\obj\Debug\net7.0\PaymentsConsumer.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\PaymentsConsumer\obj\Debug\net7.0\PaymentsConsumer.csproj.CopyComplete
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\PaymentsConsumer\obj\Debug\net7.0\PaymentsConsumer.dll
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\PaymentsConsumer\obj\Debug\net7.0\refint\PaymentsConsumer.dll
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\PaymentsConsumer\obj\Debug\net7.0\PaymentsConsumer.pdb
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\PaymentsConsumer\obj\Debug\net7.0\PaymentsConsumer.genruntimeconfig.cache
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\PaymentsConsumer\obj\Debug\net7.0\ref\PaymentsConsumer.dll

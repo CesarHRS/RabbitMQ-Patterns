@@ -1,0 +1,17 @@
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Requisição e Resposta\Implementação\Servidor\bin\Debug\net7.0\Servidor.exe
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Requisição e Resposta\Implementação\Servidor\bin\Debug\net7.0\Servidor.deps.json
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Requisição e Resposta\Implementação\Servidor\bin\Debug\net7.0\Servidor.runtimeconfig.json
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Requisição e Resposta\Implementação\Servidor\bin\Debug\net7.0\Servidor.dll
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Requisição e Resposta\Implementação\Servidor\bin\Debug\net7.0\Servidor.pdb
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Requisição e Resposta\Implementação\Servidor\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Requisição e Resposta\Implementação\Servidor\obj\Debug\net7.0\Servidor.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Requisição e Resposta\Implementação\Servidor\obj\Debug\net7.0\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Requisição e Resposta\Implementação\Servidor\obj\Debug\net7.0\Servidor.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Requisição e Resposta\Implementação\Servidor\obj\Debug\net7.0\Servidor.AssemblyInfo.cs
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Requisição e Resposta\Implementação\Servidor\obj\Debug\net7.0\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Requisição e Resposta\Implementação\Servidor\obj\Debug\net7.0\Servidor.csproj.CopyComplete
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Requisição e Resposta\Implementação\Servidor\obj\Debug\net7.0\Servidor.dll
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Requisição e Resposta\Implementação\Servidor\obj\Debug\net7.0\refint\Servidor.dll
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Requisição e Resposta\Implementação\Servidor\obj\Debug\net7.0\Servidor.pdb
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Requisição e Resposta\Implementação\Servidor\obj\Debug\net7.0\Servidor.genruntimeconfig.cache
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Requisição e Resposta\Implementação\Servidor\obj\Debug\net7.0\ref\Servidor.dll

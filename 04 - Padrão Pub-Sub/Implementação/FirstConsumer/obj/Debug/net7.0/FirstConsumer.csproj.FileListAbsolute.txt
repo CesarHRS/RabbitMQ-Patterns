@@ -1,0 +1,22 @@
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Pub-Sub\Exemplo3\FirstConsumer\obj\Debug\net7.0\FirstConsumer.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Pub-Sub\Exemplo3\FirstConsumer\obj\Debug\net7.0\FirstConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Pub-Sub\Exemplo3\FirstConsumer\obj\Debug\net7.0\FirstConsumer.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Pub-Sub\Exemplo3\FirstConsumer\obj\Debug\net7.0\FirstConsumer.AssemblyInfo.cs
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Pub-Sub\Exemplo3\FirstConsumer\obj\Debug\net7.0\FirstConsumer.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Pub-Sub\Exemplo3\FirstConsumer\obj\Debug\net7.0\FirstConsumer.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Pub-Sub\Exemplo3\FirstConsumer\obj\Debug\net7.0\FirstConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Pub-Sub\Exemplo3\FirstConsumer\obj\Debug\net7.0\FirstConsumer.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Pub-Sub\Exemplo3\FirstConsumer\obj\Debug\net7.0\FirstConsumer.AssemblyInfo.cs
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Pub-Sub\Exemplo3\FirstConsumer\obj\Debug\net7.0\FirstConsumer.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Pub-Sub\Exemplo3\FirstConsumer\bin\Debug\net7.0\FirstConsumer.exe
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Pub-Sub\Exemplo3\FirstConsumer\bin\Debug\net7.0\FirstConsumer.deps.json
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Pub-Sub\Exemplo3\FirstConsumer\bin\Debug\net7.0\FirstConsumer.runtimeconfig.json
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Pub-Sub\Exemplo3\FirstConsumer\bin\Debug\net7.0\FirstConsumer.dll
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Pub-Sub\Exemplo3\FirstConsumer\bin\Debug\net7.0\FirstConsumer.pdb
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Pub-Sub\Exemplo3\FirstConsumer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Pub-Sub\Exemplo3\FirstConsumer\obj\Debug\net7.0\FirstConsumer.csproj.CopyComplete
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Pub-Sub\Exemplo3\FirstConsumer\obj\Debug\net7.0\FirstConsumer.dll
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Pub-Sub\Exemplo3\FirstConsumer\obj\Debug\net7.0\refint\FirstConsumer.dll
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Pub-Sub\Exemplo3\FirstConsumer\obj\Debug\net7.0\FirstConsumer.pdb
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Pub-Sub\Exemplo3\FirstConsumer\obj\Debug\net7.0\FirstConsumer.genruntimeconfig.cache
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Padrão Pub-Sub\Exemplo3\FirstConsumer\obj\Debug\net7.0\ref\FirstConsumer.dll

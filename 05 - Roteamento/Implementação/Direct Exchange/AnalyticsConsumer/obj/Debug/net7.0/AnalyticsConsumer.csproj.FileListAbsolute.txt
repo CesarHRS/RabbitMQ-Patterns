@@ -1,0 +1,17 @@
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\AnalyticsConsumer\bin\Debug\net7.0\AnalyticsConsumer.exe
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\AnalyticsConsumer\bin\Debug\net7.0\AnalyticsConsumer.deps.json
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\AnalyticsConsumer\bin\Debug\net7.0\AnalyticsConsumer.runtimeconfig.json
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\AnalyticsConsumer\bin\Debug\net7.0\AnalyticsConsumer.dll
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\AnalyticsConsumer\bin\Debug\net7.0\AnalyticsConsumer.pdb
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\AnalyticsConsumer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\AnalyticsConsumer\obj\Debug\net7.0\AnalyticsConsumer.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\AnalyticsConsumer\obj\Debug\net7.0\AnalyticsConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\AnalyticsConsumer\obj\Debug\net7.0\AnalyticsConsumer.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\AnalyticsConsumer\obj\Debug\net7.0\AnalyticsConsumer.AssemblyInfo.cs
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\AnalyticsConsumer\obj\Debug\net7.0\AnalyticsConsumer.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\AnalyticsConsumer\obj\Debug\net7.0\AnalyticsConsumer.csproj.CopyComplete
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\AnalyticsConsumer\obj\Debug\net7.0\AnalyticsConsumer.dll
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\AnalyticsConsumer\obj\Debug\net7.0\refint\AnalyticsConsumer.dll
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\AnalyticsConsumer\obj\Debug\net7.0\AnalyticsConsumer.pdb
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\AnalyticsConsumer\obj\Debug\net7.0\AnalyticsConsumer.genruntimeconfig.cache
+C:\Users\cesar\OneDrive\Área de Trabalho\Hedro\Roteamento\AnalyticsConsumer\obj\Debug\net7.0\ref\AnalyticsConsumer.dll

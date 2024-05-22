@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9BEPBrI8Pn8jMps98jZ0G/kQnyqVl/ZCcjwc+FcNXm8r0EWvvhJDYd0OY4wjtkzblZ0phm5+e45AjEnls7JMFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cesar\\OneDrive\\Área de Trabalho\\Hedro\\Roteamento\\Topic Exchange\\Producer\\Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
